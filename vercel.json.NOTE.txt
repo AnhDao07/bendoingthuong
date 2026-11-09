@@ -1,0 +1,1 @@
+# Nếu dùng router hash thì KHÔNG cần file này. Nếu sau đổi sang đường dẫn thường (/chars) thì cần rewrite mọi đường về index.html. (Đổi nội dung file này thành JSON khi cần.)

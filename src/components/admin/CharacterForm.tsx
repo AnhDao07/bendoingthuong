@@ -1,0 +1,1 @@
+// Form đăng/sửa char: tên, tagline, ảnh bìa/avatar, tag, giới thiệu, ngoại hình, tính cách, bối cảnh, lời thoại mẫu, thông tin khác, link, nhạc gắn kèm, cài khoá. Tham khảo bản mẫu serlif.zip: file cùng tên/cùng vai trò trong src/ components/character/CharacterForm.tsx
